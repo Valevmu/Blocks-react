@@ -1,0 +1,39 @@
+
+.App {
+  background-color: #dddd;
+  margin: 10px 10px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  background-color: #6aa84f;
+  height: 30vh;
+  margin: 10px 10px;
+}
+.container {
+  display: -webkit-inline-box;
+}
+.nav {
+  background-color: #6fa8dc;
+  height: 60vh;
+  margin: 10px;
+  width: 20vh;
+}
+.main {
+  background-color: #e06666;
+  height: 55vh;
+  margin: 10px;
+}
+.subcont {
+  background-color: #ffd966;
+  height: 25vh;
+  margin: 10px;
+  width: 57vh;
+  display: inline-block;
+}
+.ad {
+  background-color: #b4a7d6;
+  height: 10vh;
+  margin: 10px;
+}
